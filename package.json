@@ -1,0 +1,31 @@
+{
+  "name": "nodehuobi",
+  "version": "0.0.1",
+  "description": "huobi api node sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./scripts/runTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamweilee/huobi-api-node-sdk.git"
+  },
+  "keywords": [
+    "huobi",
+    "trade",
+    "market",
+    "api"
+  ],
+  "author": "weilee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamweilee/huobi-api-node-sdk/issues"
+  },
+  "homepage": "https://github.com/iamweilee/huobi-api-node-sdk#readme",
+  "dependencies": {
+    "pako": "^1.0.10"
+  },
+  "devDependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
